@@ -22,7 +22,9 @@
     "lib/*"
   ],
   "dependencies": {
+    "bit-encode": "^1.0.0",
     "got": "^6.7.1",
+    "hafas-client": "github:derhuerst/hafas-client",
     "moment-timezone": "^0.5.11"
   },
   "devDependencies": {
